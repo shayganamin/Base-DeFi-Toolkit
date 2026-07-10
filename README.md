@@ -4,3 +4,4 @@ feat : add base defi toolkit
 init : project scaffold
 feat : add wallet connection
 feat : implement token transfer
+feat : intergate base network
