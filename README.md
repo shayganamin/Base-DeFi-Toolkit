@@ -5,3 +5,4 @@ init : project scaffold
 feat : add wallet connection
 feat : implement token transfer
 feat : intergate base network
+feat : add contract interaction
