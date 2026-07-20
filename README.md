@@ -6,3 +6,4 @@ feat : add wallet connection
 feat : implement token transfer
 feat : intergate base network
 feat : add contract interaction
+feat : add base name
